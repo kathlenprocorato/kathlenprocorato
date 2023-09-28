@@ -25,6 +25,7 @@
 ## 🎉 Fun Fact
 
 - Beyond the keyboard, you'll find me sleeping. Coding's my day job, but life's all about balance.
+<img src="https://tenor.com/view/asleep-sleeping-anna-frozen-gif-17597067" alt="Funny GIF" width="200"/>
 
 Thanks for landing on my digital launchpad! Dive into my repositories, and let's script the future together. The code is strong with this one! 🌟🚀
 
